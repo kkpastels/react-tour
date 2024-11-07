@@ -1,7 +1,6 @@
 import React from 'react';
 import Title from "./Title";
 import { tours } from '../data';
-import {tour1, tour2, tour3, tour4} from "../data";
 
 function Tours() {
     return (
