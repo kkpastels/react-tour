@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react_tour/static/js/main.6403550e.js",
     "main.css": "/react_tour/static/css/main.61793154.css",
+    "main.js": "/react_tour/static/js/main.6403550e.js",
     "static/media/tour4.jpg": "/react_tour/static/media/tour4.0f111f2ea7a59879f6f2.jpg",
     "static/media/tour1.jpg": "/react_tour/static/media/tour1.7f9bcd76e3d7dce3dd44.jpg",
     "static/media/tour3.jpg": "/react_tour/static/media/tour3.001814fe8d60773b2f3c.jpg",
@@ -10,11 +10,11 @@
     "static/media/about.jpg": "/react_tour/static/media/about.f920e5423d56dcc434eb.jpg",
     "static/media/logo.svg": "/react_tour/static/media/logo.7cb2a2dbd3ce6f915f02f5eaaba886f4.svg",
     "index.html": "/react_tour/index.html",
-    "main.6403550e.js.map": "/react_tour/static/js/main.6403550e.js.map",
-    "main.61793154.css.map": "/react_tour/static/css/main.61793154.css.map"
+    "main.61793154.css.map": "/react_tour/static/css/main.61793154.css.map",
+    "main.6403550e.js.map": "/react_tour/static/js/main.6403550e.js.map"
   },
   "entrypoints": [
-    "static/js/main.6403550e.js",
-    "static/css/main.61793154.css"
+    "static/css/main.61793154.css",
+    "static/js/main.6403550e.js"
   ]
 }
